@@ -17,6 +17,8 @@ From the root directory (MLB-streamer), navigate to the Release directory. Doubl
 This project was build using Visual Studio 2019 (although, other versions may work). 
 - Open the .sln file in the root directory with Visual Studio to load the project. 
 - Select Build->Rebuild Solution.
+- Change configuration dropdown to Debug.
+- Change solution platform dropdown to x86.
 - You can run the Debug configuration by selecting Debug->Start Debugging (release configuration hasn't been setup just yet)
 
 ## License
